@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css" class="css">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <head>
+    <h1 class="title mt-2">RGB to HEX converter</h1>
+    <h1 class="title mt-2">(by Samuel Yeh)</h1>
+  </head>
+
+  <body>
+    <div class='row'>
+      <div class='input-zone col-6 text-center'>
+        <h2>RGB</h2>
+        <div class='R input'>
+          <h3>R:</h3>
+          <input id="R-input-dec" type="text">
+          <div class='R-output-dec rgbOutput'></div>
+        </div>
+        <div class='G input'>
+          <h3>G:</h3>
+          <input id="G-input-dec" type="text">
+          <div class='G-output-dec rgbOutput'></div>
+        </div>
+        <div class='B input'>
+          <h3>B:</h3>
+          <input id="B-input-dec" type="text">
+          <div class='B-output-dec rgbOutput'></div>
+        </div>
+        <div class='convert' id='convert'>
+          <button name="button" class="btn btn-primary">Convert</button>
+        </div>
+      </div>
+      <div class='output-zone col-6 text-center'>
+        <h2>HEX</h2>
+        <div class="output">
+          <div class='output-hex'></div>
+          <div class='color-hex'></div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>

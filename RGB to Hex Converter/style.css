@@ -1,0 +1,51 @@
+.title{
+  text-align:center;
+}
+
+.input{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input{
+  border:1px solid black;
+  height:30px;
+  position:relative;
+  left:15px;
+}
+
+.rgbOutput{
+  width:35px;
+  height:35px;
+  border:1px solid black;
+  position:relative;
+  top:3px;
+  left:25px;
+}
+
+.convert{
+  position:relative;
+  top:20px;
+}
+
+
+.output-hex{
+  border:1px solid black;
+  width:200px;
+  height:26px;
+}
+
+.color-hex{
+  border:1px solid black;
+  width:140px;
+  height:140px;
+  margin-top:30px;
+}
+
+.output{
+  display:flex;
+  flex-flow:column nowrap;
+  align-items: center;
+  justify-content: center;
+}
