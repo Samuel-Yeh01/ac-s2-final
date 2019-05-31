@@ -1,6 +1,5 @@
 # Movie List with Genres
 Base on the pervious practice, I integrate the material and try to bulid a whole new website about movie List. 
-----
 
 ## How the Movie List work
 - add "Genre button" on the landing page.
@@ -11,5 +10,5 @@ Base on the pervious practice, I integrate the material and try to bulid a whole
 - if you want to check your favorite movies list, you can visit it at "favorite.html".
 ----
 
-## Outcome
+## Outcome 
 [Imgur](https://i.imgur.com/F2iZb8P.png)
