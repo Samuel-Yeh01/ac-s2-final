@@ -11,6 +11,6 @@ Base on the pervious practice, I integrate the material and try to bulid a whole
 ----
 
 ## Outcome 
-https://samuel-yeh01.github.io/ac-s2-final/index.html
+https://samuel-yeh01.github.io/ac-s2-final/Movie List with Genres/index.html
 
 [Imgur](https://i.imgur.com/F2iZb8P.png)
