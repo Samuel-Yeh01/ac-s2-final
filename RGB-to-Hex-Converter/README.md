@@ -8,4 +8,6 @@ Base on the pervious practice, I integrate the material and try to bulid a RGB t
 - show the color of hex number.
 
 ## Outcome
+https://samuel-yeh01.github.io/ac-s2-final/RGB-to-Hex-Converter/index.html
+
 [Imgur](https://i.imgur.com/GlloTLf.png)
